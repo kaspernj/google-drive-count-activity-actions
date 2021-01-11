@@ -1,0 +1,15 @@
+{
+  "name": "google-drive-count-activity-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --trace-warnings index.cjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@kaspernj/object-digger": "^1.0.2"
+  }
+}
